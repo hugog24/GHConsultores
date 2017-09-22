@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854528196492",
+    "firebase_url": "https://ghconsultores-77bc0.firebaseio.com",
+    "project_id": "ghconsultores-77bc0",
+    "storage_bucket": "ghconsultores-77bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854528196492:android:60698c7e70057d7b",
+        "android_client_info": {
+          "package_name": "com.ghcontadores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854528196492-34ns1u77a3b9ll9vv96tem25pcmehbhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghcontadores",
+            "certificate_hash": "f45d59e1d85671744151570146466f02f6f08d09"
+          }
+        },
+        {
+          "client_id": "854528196492-gb4u60j0629gssi3aso9dm11j7oa7v88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpYL1OwsfQHHDwMYLv2jJjmwFXLER5YM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854528196492-gb4u60j0629gssi3aso9dm11j7oa7v88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

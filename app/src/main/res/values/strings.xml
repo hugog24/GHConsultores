@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GHConsultores</string>
+    <string name="tab_login">Iniciar sesión</string>
+    <string name="tab_createaccount">Crear cuenta</string>
+    <string name="tab_news">Noticias</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_signin">Iniciar sesión</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_confirmpassword">Confirma tu contraseña</string>
+    <string name="hint_personafisica">Física</string>
+    <string name="hint_personamoral">Moral</string>
+    <string name="hint_tipopersona">Tipo de persona:</string>
+    <string name="hint_nombre">Razón social o nombre</string>
+    <string name="btn_signup">Crear cuenta</string>
+    <string name="login_error">Error al iniciar sesión :</string>
+    <string name="login_success">Inicio de sesión exitoso : </string>
+    <string name="login_fields_validation">Completa los campos antes continuar</string>
+    <string name="signup_error">Error al crear cuenta :</string>
+    <string name="signup_success">Creación de cuenta exitoso :</string>
+    <string name="email_verification">Revisa tu correo para verificar tu cuenta</string>
+    <string name="email_verification_error">Ocurrió un error : </string>
+    <string name="email_verification_message">Se ha enviado la información de verificación a tu correo: </string>
+
+    <string name="facebook_app_id">123957111660557</string>
+    <string name="fb_login_protocol_scheme">fb123957111660557</string>
+    <string name="login_facebook_success">Login de Facebook Exitoso</string>
+    <string name="login_facebook_unsuccess">Login de Facebook no exitoso</string>
+    <string name="menu_signout">Cerrar Sesión</string>
+    <string name="menu_aboutus">Acerca de</string>
+</resources>
